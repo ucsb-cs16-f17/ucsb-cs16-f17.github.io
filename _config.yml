@@ -17,7 +17,7 @@ cal_dates: >
   {"label":"Univ Holiday", "date":"2017-11-23" },
   {"label":"Univ Holiday", "date":"2017-11-24" },
   {"label":"Last day of classes", "date":"2017-12-08" },			
-  {"label":"Final Exam (4-7 PM)":"2017-12-12" },			
+  {"label":"Final Exam (4-7 PM)", "date":"2017-12-12" },			
   ]
 
 
