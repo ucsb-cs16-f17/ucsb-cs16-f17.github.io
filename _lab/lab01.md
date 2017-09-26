@@ -3,12 +3,15 @@ layout: lab
 num: lab01
 ready: true
 desc: "Getting started with C++"
-assigned: 2017-09-28 14:00:00.00-7
+assigned: 2017-10-02 08:00:00.00-7
 due: 2017-10-06 12:00:00.00-7
 ---
 <h2>Introduction</h2>
 
 <p>Your first lab for this week is an introduction to programming on CSIL and in the Computer Science lab. You will write your first 2 C++ programs.</p>
+
+<p><b>THE DEADLINE TO SUBMIT THIS LAB IS FRIDAY, 10/6 BY NOON</b>. Details on how to submit are further down in this document.</p>
+<hr>
 
 <p>For this first lab, you will do the following:</p>
 <ol>
@@ -358,7 +361,8 @@ int main() {
 
 <p><strong>Please remember that you must submit the programs to obtain any credit for the assignment; just completing the programs is not enough.</strong></p>
 
-<p>For this example, let us assume that you only had to submit 1 program (hello.cpp). This applies to ANY C++ program you submit via this system:</p><p></p>
+<p>For this example, let us assume that you only had to submit 1 program (hello.cpp). This applies to ANY C++ program you submit via this system:</p>
+<hr>
 
 <p>In this course we will use the <a href="https://submit.cs.ucsb.edu/" target="_blank">submit.cs.ucsb.edu</a> system. You can make a submission from either the command line on any CS machine, or from a Web browser.</p>
 
