@@ -354,9 +354,11 @@ int main() {
 
 <h3>Step 8: Submit your program for grading</h3>
 
-<p>Once you are satisfied that your program is correct, then it is time to submit it.</p>
+<p>Once you are satisfied that your programs are correct, then it is time to submit them.</p>
 
-<p><strong>Please remember that you must submit the program to obtain any credit for the assignment; just completing the program is not enough.</strong></p>
+<p><strong>Please remember that you must submit the programs to obtain any credit for the assignment; just completing the programs is not enough.</strong></p>
+
+<p>For this example, let us assume that you only had to submit 1 program (hello.cpp). This applies to ANY C++ program you submit via this system:</p>
 
 <p>In this course we will use the <a href="https://submit.cs.ucsb.edu/" target="_blank">submit.cs.ucsb.edu</a> system. You can make a submission from either the command line on any CS machine, or from a Web browser.</p>
 
@@ -368,7 +370,7 @@ int main() {
 <p>Next, you need to join the CS16 course. Look for the "Join Class" link at the top of the page. It is in the top bar, as seen below:</p>
 <img src="submit-topbar.png" width="542" alt="submit.cs Top Bar" />
 
-<p>Once you see the list of all courses, click on the <b>"Join CS16_S17_Matni"</b> button.</p>
+<p>Once you see the list of all courses, click on the <b>"Join CS16_f17_Matni"</b> button.</p>
 
 <p>You should then see CS16 appear on your homepage when logging in to the submit.cs system. Click on the course now.</p>
 
@@ -391,14 +393,14 @@ int main() {
 <p>You can copy this URL and paste into a Web browser to reach the same submission result page as described above.</p>
 
 <hr>
-<h3>Step 7: Check Submission Results</h3>
+<h3>Step 9: Check Submission Results</h3>
 
 <p>After the 1 minute delay, the submit system will show your score and give you feedback on your submission. <em>Refresh the webpage after a minute to see this information.</em> This usually takes one of three forms:</p>
 
 <p>A correct submission with a score of 100. This means that your program passed all the tests for this assignment. Once you get to this point, you are finished with the assignment and will receive full credit. This case will look like this:</p>
 <img src="correct-submission.png" width="233" alt="Correct Submission." />
 
-<p>An incorrect submission with a score of 0 to 99. This means that your program failed 1 or more of the tests. For this assignment, the system will show both the expected output and the output your program generated side-by-side so that you can see what went wrong. You will need to fix your program, and then do Step 6 again to re-submit. This case will look like this:</p>
+<p>An incorrect submission with a score of 0 to 99. This means that your program failed 1 or more of the tests. For this assignment, the system will show both the expected output and the output your program generated side-by-side so that you can see what went wrong. You will need to fix your program, and then do Step 8 again to re-submit. This case will look like this:</p>
 <img src="incorrect-submission.png" width="706" alt="Incorrect Submission." />
 
 <p>Or a submission for which compilation failed. This means that your program caused compilation errors when the system tried to compile it. You will need to interpret the compiler output and fix the errors. The system will show you the compilation command that failed along with the full error message. This case will look like this:</p>
@@ -407,9 +409,9 @@ int main() {
 <p>You may submit your program multiple times before the deadline. You should really only submit after local compilation does not produce any errors and runs as expected - that is the most efficient and preferred way to do things. The score of the last submission uploaded before the deadline will be used as your assignment grade.</p>
 
 <hr>
-<h3>Step 8: Done!</h3>
+<h3>Step 10: Done!</h3>
 
-<p>Once your submission receives a score of 100/100, you are done with this assignment. Congratulations on completing your first C++ program!</p>
+<p>Once your submission receives a score of 100/100, you are done with this assignment. Congratulations on completing your first C++ programs!</p>
 
 <p>If you are in the Phelps lab or in CSIL, <b>make sure to log out of the machine before you leave</b>. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.</p>
 
