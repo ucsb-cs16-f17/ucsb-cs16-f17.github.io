@@ -358,7 +358,7 @@ int main() {
 
 <p><strong>Please remember that you must submit the programs to obtain any credit for the assignment; just completing the programs is not enough.</strong></p>
 
-<p>For this example, let us assume that you only had to submit 1 program (hello.cpp). This applies to ANY C++ program you submit via this system:</p>
+<p>For this example, let us assume that you only had to submit 1 program (hello.cpp). This applies to ANY C++ program you submit via this system:</p><p></p>
 
 <p>In this course we will use the <a href="https://submit.cs.ucsb.edu/" target="_blank">submit.cs.ucsb.edu</a> system. You can make a submission from either the command line on any CS machine, or from a Web browser.</p>
 
