@@ -1,5 +1,5 @@
 ---
-title: CS16, Spring 2017, zmatni
+title: CS16, Fall 2017, zmatni
 ---
 
 # {{site.course}}, {{site.quarter}}
