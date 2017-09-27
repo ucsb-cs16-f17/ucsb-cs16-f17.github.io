@@ -7,7 +7,6 @@ ready: true
 <div markdown="1">
 
 Basic Facts
------------
 
 * **Instructor**:  [Ziad Matni](http://www.cs.ucsb.edu/~zmatni){: target="_blank"}<br/>
 Email: <zmatni@cs.ucsb.edu><br/>
