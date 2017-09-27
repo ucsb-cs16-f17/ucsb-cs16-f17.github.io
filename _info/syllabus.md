@@ -16,18 +16,13 @@ Office: SSMS 4409<br/><br/>
 
 * **Piazza Site**: [piazza.com/ucsb/fall2017/cs16](https://www.piazza.com/ucsb/fall2017/cs16){: target="_blank"}<br/>
 
-* **TAs**:<br/>
-Xiyou Zhou, Email: <xiyou@umail.ucsb.edu>,&nbsp;&nbsp;&nbsp;&nbsp;hello<br/>
-Zhiyu (Zoey) Chen, Lab:	Mon. 9am, Office Hours: Fri. 10 - 12 AM<br/>
-Email: <zhiyuchen@umail.ucsb.edu><br/>
-Yan Tang, Lab:	Mon. 10 am, Office Hours: Fri. 2 - 4 PM<br/>
-Email: <yantang@cs.ucsb.edu><br/>
-Muqsit Nawaz, Lab: Mon. 11 am, Office Hours: Tue. 4 - 6 PM<br/>
-Email: <mmnawaz@umail.ucsb.edu><br/>
-Shiyu Ji, Lab:	Mon. 12 pm, Office Hours: Thu. 4 - 6 PM<br/>
-Email: <shiyu@cs.ucsb.edu><br/>
-Fatih Bakir, Lab: Mon. 1pm, Office Hours: Tue. 4 - 6 PM<br/>
-Email: <bakir@umail.ucsb.edu><br/>
+* **TAs and their Office Hours**:<br/>
+Xiyou Zhou, Email: <xiyou@umail.ucsb.edu>,&nbsp;&nbsp;&nbsp;&nbsp; 8AM Lab &nbsp;&nbsp;&nbsp;&nbsp; MO 2 - 4 PM<br/>
+Zhiyu (Zoey) Chen, <zhiyuchen@umail.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; 9AM Lab &nbsp;&nbsp;&nbsp;&nbsp; FR 10 AM - 12 PM<br/>
+Yan Tang, <yantang@cs.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; 10AM Lab &nbsp;&nbsp;&nbsp;&nbsp; FR 2 - 4 PM<br/>
+Muqsit Nawaz, <mmnawaz@umail.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; 11AM Lab &nbsp;&nbsp;&nbsp;&nbsp; TU 4 - 6 PM<br/>
+Shiyu Ji, <shiyu@cs.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; 12PM Lab &nbsp;&nbsp;&nbsp;&nbsp; TH 4 - 6 PM<br/>
+Fatih Bakir, <bakir@umail.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; 1PM Lab &nbsp;&nbsp;&nbsp;&nbsp; TU 4 - 6 PM<br/>
 <br/>
 
 * **GRADERS**:<br/>
