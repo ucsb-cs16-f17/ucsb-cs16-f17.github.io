@@ -17,17 +17,20 @@ Office: SSMS 4409<br/><br/>
 * **Piazza Site**: [piazza.com/ucsb/fall2017/cs16](https://www.piazza.com/ucsb/fall2017/cs16){: target="_blank"}<br/>
 
 * **TAs and their Office Hours**:<br/>
-Xiyou Zhou, <xiyou@umail.ucsb.edu>,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8AM Lab &nbsp;&nbsp;&nbsp;&nbsp; MO 2 - 4 PM<br/>
-Zhiyu (Zoey) Chen, <zhiyuchen@umail.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; 9AM Lab &nbsp;&nbsp;&nbsp;&nbsp; FR 10 AM - 12 PM<br/>
-Yan Tang, <yantang@cs.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10AM Lab &nbsp;&nbsp;&nbsp;&nbsp; FR 2 - 4 PM<br/>
-Muqsit Nawaz, <mmnawaz@umail.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11AM Lab &nbsp;&nbsp;&nbsp;&nbsp; TU 4 - 6 PM<br/>
-Shiyu Ji, <shiyu@cs.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12PM Lab &nbsp;&nbsp;&nbsp;&nbsp; TH 4 - 6 PM<br/>
-Fatih Bakir, <bakir@umail.ucsb.edu>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1PM Lab &nbsp;&nbsp;&nbsp;&nbsp; TU 4 - 6 PM<br/>
-<br/>
-
-* **GRADERS**:<br/>
-Shane Masuda, <masuda@umail.ucsb.edu><br/>
-Siyi (Sydney) Ma, <siyima@umail.ucsb.edu><br/>
+<ol markdown='1'>
+| TA                | Email                    | Mon. Lab | Office Hours    |
+|-------------------|--------------------------|----------|-----------------|
+| Xiyou Zhou        | xiyou@umail.ucsb.edu     | 8 am     | Mon. 2 - 4 PM   |
+| Zhiyu Chen        | zhiyuchen@umail.ucsb.edu | 9 am     | Fri. 10 - 12 AM |
+| Yan Tang          | yantang@cs.ucsb.edu      | 10 am    | Fri. 2 - 4 PM   |
+| Muqsit Nawaz      | mmnawaz@umail.ucsb.edu   | 11 am    | Tue. 4 - 6 PM   |
+| Shiyu Ji          | shiyu@cs.ucsb.edu        | 12 pm    | Thu. 4 - 6 PM   |
+| Fatih Bakir       | bakir@umail.ucsb.edu     | 1 pm     | Tue. 4 - 6 PM   |
+|                   |                          |          |                 |
+| Grader            | Email                    |          |                 |
+| Shane Masuda      | masuda@umail.ucsb.edu    | -        | -               |
+| Siyi (Sydney) Ma  | siyima@umail.ucsb.edu    | -        | -               |
+</ol>
 
 * **Lab**: (50 minute sections)<br/>
 Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUIRED.<br/>
