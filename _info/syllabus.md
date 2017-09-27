@@ -17,7 +17,7 @@ Office: SSMS 4409<br/><br/>
 * **Piazza Site**: [piazza.com/ucsb/fall2017/cs16](https://www.piazza.com/ucsb/fall2017/cs16){: target="_blank"}<br/>
 
 * **TAs**:<br/>
-Xiyou Zhou, Email: <xiyou@umail.ucsb.edu>,&nbsp;hello<br/>
+Xiyou Zhou, Email: <xiyou@umail.ucsb.edu>,&nbsp;&nbsp;&nbsp;&nbsp;hello<br/>
 Zhiyu (Zoey) Chen, Lab:	Mon. 9am, Office Hours: Fri. 10 - 12 AM<br/>
 Email: <zhiyuchen@umail.ucsb.edu><br/>
 Yan Tang, Lab:	Mon. 10 am, Office Hours: Fri. 2 - 4 PM<br/>
