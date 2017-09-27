@@ -17,16 +17,23 @@ Office: SSMS 4409<br/><br/>
 * **Piazza Site**: [piazza.com/ucsb/fall2017/cs16](https://www.piazza.com/ucsb/fall2017/cs16){: target="_blank"}<br/>
 
 * **TAs**:<br/>
-Xiyou Zhou, xiyou@umail.ucsb.edu, Lab: Mon. 8 am, Office Hours: Mon. 2 - 4 PM<br/>
-Zhiyu (Zoey) Chen, zhiyuchen@umail.ucsb.edu, Lab:	Mon. 9am, Office Hours: Fri. 10 - 12 AM<br/>
-Yan Tang, yantang@cs.ucsb.edu, Lab:	Mon. 10 am, Office Hours: Fri. 2 - 4 PM<br/>
-Muqsit Nawaz, mmnawaz@umail.ucsb.edu, Lab: Mon. 11 am, Office Hours: Tue. 4 - 6 PM<br/>
-Shiyu Ji, shiyu@cs.ucsb.edu, Lab:	Mon. 12 pm, Office Hours: Thu. 4 - 6 PM<br/>
-Fatih Bakir, bakir@umail.ucsb.edu, Lab: Mon. 1pm, Office Hours: Tue. 4 - 6 PM<br/>
+Xiyou Zhou, Lab: Mon. 8 am, Office Hours: Mon. 2 - 4 PM<br/>
+<xiyou@umail.ucsb.edu><br\>
+Zhiyu (Zoey) Chen, Lab:	Mon. 9am, Office Hours: Fri. 10 - 12 AM<br/>
+<zhiyuchen@umail.ucsb.edu><br\>
+Yan Tang, Lab:	Mon. 10 am, Office Hours: Fri. 2 - 4 PM<br/>
+<yantang@cs.ucsb.edu><br\>
+Muqsit Nawaz, Lab: Mon. 11 am, Office Hours: Tue. 4 - 6 PM<br/>
+<mmnawaz@umail.ucsb.edu><br\>
+Shiyu Ji, Lab:	Mon. 12 pm, Office Hours: Thu. 4 - 6 PM<br/>
+<shiyu@cs.ucsb.edu><br\>
+Fatih Bakir, Lab: Mon. 1pm, Office Hours: Tue. 4 - 6 PM<br/>
+<bakir@umail.ucsb.edu><br\>
 <br/>
-* **GRADERS**:</br>
-Shane Masuda, masuda@umail.ucsb.edu<br/>
-Siyi (Sydney) Ma, siyima@umail.ucsb.edu<br/>
+
+* **GRADERS**:<br/>
+Shane Masuda, <masuda@umail.ucsb.edu><br/>
+Siyi (Sydney) Ma, <siyima@umail.ucsb.edu><br/>
 
 * **Lab**: (50 minute sections)<br/>
 Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUIRED.<br/>
