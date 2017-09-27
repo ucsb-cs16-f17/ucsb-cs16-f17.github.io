@@ -6,7 +6,7 @@ ready: true
 
 <div markdown="1">
 
-Basic Facts
+<h2>Basic Facts</h2>
 
 * **Instructor**:  [Ziad Matni](http://www.cs.ucsb.edu/~zmatni){: target="_blank"}<br/>
 Email: <zmatni@cs.ucsb.edu><br/>
@@ -39,7 +39,7 @@ Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUI
 
 <strong>Please read the class syllabus in its entirety.</strong><br/>
 
-<b>
-[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</b>
+<b><h2>
+[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h2></b>
 
 </div>
