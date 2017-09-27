@@ -23,7 +23,7 @@ Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUI
 
 * **TAs and their Office Hours**:<br/>
 
-| TA                | Email                    | Mon. Lab | Office Hours    |
+| <b>TA</b>                | <b>Email</b>                    | <b>Mon. Lab</b> | <b>Office Hours</b>    |
 |-------------------|--------------------------|----------|-----------------|
 | Xiyou Zhou        | xiyou@umail.ucsb.edu     | 8 am     | Mon. 2 - 4 PM   |
 | Zhiyu Chen        | zhiyuchen@umail.ucsb.edu | 9 am     | Fri. 10 - 12 AM |
@@ -32,7 +32,7 @@ Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUI
 | Shiyu Ji          | shiyu@cs.ucsb.edu        | 12 pm    | Thu. 4 - 6 PM   |
 | Fatih Bakir       | bakir@umail.ucsb.edu     | 1 pm     | Tue. 4 - 6 PM   |
 |                   |                          |          |                 |
-| Grader            | Email                    |          |                 |
+| <b>Grader</b>            | <b>Email</b>                    |          |                 |
 | Shane Masuda      | masuda@umail.ucsb.edu    | -        | -               |
 | Siyi (Sydney) Ma  | siyima@umail.ucsb.edu    | -        | -               |
 
@@ -40,6 +40,7 @@ Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUI
 
 <strong>Please read the class syllabus in its entirety.</strong><br/>
 
-<h2>[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h2>
+<b>
+[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</b>
 ----------------
 </ol>
