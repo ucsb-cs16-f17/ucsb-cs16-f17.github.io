@@ -39,7 +39,7 @@ Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUI
 
 <strong>Please read the class syllabus in its entirety.</strong><br/>
 
-<b><h2>
-[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h2></b>
+<h2>
+[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h2>
 
 </div>
