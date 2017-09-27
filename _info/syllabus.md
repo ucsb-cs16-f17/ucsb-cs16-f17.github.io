@@ -16,20 +16,24 @@ Office: SSMS 4409<br/><br/>
 
 * **Piazza Site**: [piazza.com/ucsb/fall2017/cs16](https://www.piazza.com/ucsb/fall2017/cs16){: target="_blank"}<br/>
 
-<!---
 * **TAs**:<br/>
-Sujaya Maiyya <sujaya_maiyya@umail.ucsb.edu>, <br/>
-Nataly Moreno <nataly_moreno@umail.ucsb.edu>, <br/>
-Jinjin Shao <jinjin_shao@umail.ucsb.edu>, <br/>
-Bay-Yuan Hsu (Grader) <bhsu@umail.ucsb.edu><br/><br/>
+Xiyou Zhou, xiyou@umail.ucsb.edu, Lab: Mon. 8 am, Office Hours: Mon. 2 - 4 PM<br/>
+Zhiyu (Zoey) Chen, zhiyuchen@umail.ucsb.edu, Lab:	Mon. 9am, Office Hours: Fri. 10 - 12 AM<br/>
+Yan Tang, yantang@cs.ucsb.edu, Lab:	Mon. 10 am, Office Hours: Fri. 2 - 4 PM<br/>
+Muqsit Nawaz, mmnawaz@umail.ucsb.edu, Lab: Mon. 11 am, Office Hours: Tue. 4 - 6 PM<br/>
+Shiyu Ji, shiyu@cs.ucsb.edu, Lab:	Mon. 12 pm, Office Hours: Thu. 4 - 6 PM<br/>
+Fatih Bakir, bakir@umail.ucsb.edu, Lab: Mon. 1pm, Office Hours: Tue. 4 - 6 PM<br/>
+<br/>
+* **GRADERS**:</br>
+Shane Masuda, masuda@umail.ucsb.edu<br/>
+Siyi (Sydney) Ma, siyima@umail.ucsb.edu<br/>
 
 * **Lab**: (50 minute sections)<br/>
-Wednesdays starting at 8am, 9am, 10am PHELP 3525, ATTENDANCE REQUIRED.<br/>
-* **TA Office Hours**: See full syllabus for details. <br/>
+Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUIRED.<br/>
+
 * **Instructor's Policies**: See full syllabus for details.<br/>
--->
 
 <strong>Please read the class syllabus in its entirety.</strong><br/>
 
-[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}
+<h3>[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h3>
 ----------------
