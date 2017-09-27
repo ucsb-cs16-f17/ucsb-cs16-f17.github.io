@@ -4,6 +4,8 @@ layout: handout
 ready: true
 ---
 
+<ol markdown='1'>
+
 Basic Facts
 -----------
 
@@ -16,8 +18,11 @@ Office: SSMS 4409<br/><br/>
 
 * **Piazza Site**: [piazza.com/ucsb/fall2017/cs16](https://www.piazza.com/ucsb/fall2017/cs16){: target="_blank"}<br/>
 
+* **Lab**: (50 minute sections)<br/>
+Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUIRED.<br/>
+
 * **TAs and their Office Hours**:<br/>
-<ol markdown='1'>
+
 | TA                | Email                    | Mon. Lab | Office Hours    |
 |-------------------|--------------------------|----------|-----------------|
 | Xiyou Zhou        | xiyou@umail.ucsb.edu     | 8 am     | Mon. 2 - 4 PM   |
@@ -30,14 +35,11 @@ Office: SSMS 4409<br/><br/>
 | Grader            | Email                    |          |                 |
 | Shane Masuda      | masuda@umail.ucsb.edu    | -        | -               |
 | Siyi (Sydney) Ma  | siyima@umail.ucsb.edu    | -        | -               |
-</ol>
-
-* **Lab**: (50 minute sections)<br/>
-Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUIRED.<br/>
 
 * **Instructor's Policies**: See full syllabus for details.<br/>
 
 <strong>Please read the class syllabus in its entirety.</strong><br/>
 
-<h3>[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h3>
+<h2>[Full Class Syllabus](http://cs.ucsb.edu/~zmatni/syllabi/CS16F17_syllabus.pdf){: target="_blank"}</h2>
 ----------------
+</ol>
