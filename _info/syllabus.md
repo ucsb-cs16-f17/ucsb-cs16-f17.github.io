@@ -18,17 +18,22 @@ Office: SSMS 4409<br/><br/>
 
 * **TAs**:<br/>
 Xiyou Zhou, Lab: Mon. 8 am, Office Hours: Mon. 2 - 4 PM<br/>
-<xiyou@umail.ucsb.edu><br/>
+Email: <xiyou@umail.ucsb.edu><br/>
+
 Zhiyu (Zoey) Chen, Lab:	Mon. 9am, Office Hours: Fri. 10 - 12 AM<br/>
-<zhiyuchen@umail.ucsb.edu><br/>
+Email: <zhiyuchen@umail.ucsb.edu><br/>
+
 Yan Tang, Lab:	Mon. 10 am, Office Hours: Fri. 2 - 4 PM<br/>
-<yantang@cs.ucsb.edu><br/>
+Email: <yantang@cs.ucsb.edu><br/>
+
 Muqsit Nawaz, Lab: Mon. 11 am, Office Hours: Tue. 4 - 6 PM<br/>
-<mmnawaz@umail.ucsb.edu><br/>
+Email: <mmnawaz@umail.ucsb.edu><br/>
+
 Shiyu Ji, Lab:	Mon. 12 pm, Office Hours: Thu. 4 - 6 PM<br/>
-<shiyu@cs.ucsb.edu><br/>
+Email: <shiyu@cs.ucsb.edu><br/>
+
 Fatih Bakir, Lab: Mon. 1pm, Office Hours: Tue. 4 - 6 PM<br/>
-<bakir@umail.ucsb.edu><br/>
+Email: <bakir@umail.ucsb.edu><br/>
 <br/>
 
 * **GRADERS**:<br/>
