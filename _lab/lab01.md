@@ -321,7 +321,7 @@ Enter number of dimes:
 2
 Enter number of nickels:
 4
-The coins are worth 105 cents.
+The coins are worth 115 cents.
 ```
 
 Each string printed by the program should include a newline at the end, but no other trailing whitespace (i.e. do not have extra space characters at the end of the line).
