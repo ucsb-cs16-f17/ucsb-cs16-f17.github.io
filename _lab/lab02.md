@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab02
-ready: false
+ready: true
 desc: "Simple Flow Control"
 assigned: 2017-10-09 08:00:00.00-7
 due: 2017-10-13 12:00:00.00-7
