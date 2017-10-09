@@ -9,6 +9,9 @@ due: 2017-10-13 12:00:00.00-7
 
 <div markdown="1">
 
+<h1> THIS LAB IS NOT READY FOR RELEASE YET!!! IT IS STILL BEING EDITED !!!</h1>
+
+
 <h1>CS16: Programming Assignment 02</h1>
 <h2>Introduction</h2>
 The assignment for this week will utilize concepts of input and output and simple control flow (Chapter 2 in the book).
