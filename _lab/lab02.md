@@ -46,15 +46,15 @@ Write a program that takes 3 integer inputs from a user and prints them back in 
 A session should look <b><i>exactly</i></b> like the following example (including whitespace and formatting - although note that there is no whitespace at the end of each of these lines), with all manners of different numbers for inputs and the output:
 
 ```
-Enter 3 integers separated by spaces: -2 8 4
-Descending: 8 4 -2
+-2 8 4
+8 4 -2
 ```
 
 OR:
 
 ```
-Enter 3 integers separated by spaces: 22 -41 22
-Descending: 22 22 -41
+22 -41 22
+22 22 -41
 ```
 
 Each string printed by the program should include a newline at the end, but no other trailing whitespace (i.e. NO extra space characters at the end of the line). If you DO have extra spaces at the end, then the submit.cs system will flag it as INCORRECT!!
