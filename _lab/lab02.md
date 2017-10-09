@@ -72,8 +72,9 @@ Each string printed by the program should include a newline at the end, but no o
 <h3>PI.CPP</h3>
 Write a C++ program that approximates the value of the constant π, based on both the Leibniz and the Wallis formulas for estimating π. The formulas are shown in the images below:
 
-<img src="pi_formula_l.png" alt="pi Leibniz formula" width = 500 />
-<img src="pi_formula_w.svg" alt="pi Wallis formula" width = 500 />
+<img src="pi_formula_l.png" alt="pi Leibniz formula" width="500" />
+
+<img src="pi_formula_w.svg" alt="pi Wallis formula" width="500" />
 
 The formulas work well for high values of n.
 
