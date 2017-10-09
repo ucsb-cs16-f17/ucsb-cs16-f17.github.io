@@ -101,7 +101,7 @@ Enter the number of terms to approximate (or zero to quit):
 0
 
 ```
-Note that each string printed by the program should include a newline at the end, but no other trailing whitespace (whitespace at the end of the line).
+Note that each string printed by the program should include a newline at the end, but no other trailing whitespace (whitespace at the end of the line). Note that when the program exits, when a user enters 0, there is a newline generated.
 
 <h2>Step 3: Compile the Codes</h2>
 
