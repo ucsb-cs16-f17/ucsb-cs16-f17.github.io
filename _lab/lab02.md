@@ -9,9 +9,6 @@ due: 2017-10-13 12:00:00.00-7
 
 <div markdown="1">
 
-<h1> THIS LAB IS NOT READY FOR RELEASE YET!!! IT IS STILL BEING EDITED !!!</h1>
-
-
 <h1>CS16: Programming Assignment 02</h1>
 <h2>Introduction</h2>
 The assignment for this week will utilize concepts of input and output and simple control flow (Chapter 2 in the book).
@@ -39,7 +36,9 @@ This assignment consists of 3 problems, each of which is described below. The fi
 
 IMPORTANT NOTE: DO NOT PLAGIARIZE. WE WILL BE ABLE TO TELL! 
 
-ANOTHER VERY IMPORTANT NOTE: YOU MUST FOLLOW THE DIRECTIONS CAREFULLY BELOW OR YOU MAY LOSE POINTS: for example, the 1st program described has a requirement to use nested if-else statements. ADDITIONALLY, YOU ARE NOT ALLOWED TO USE C++ CODE THAT HAS NOT BEEN COVERED IN CLASS. For example, we have not discussed functions or arrays and you are not allowed to use those (and other not-covered topics) in this lab!
+ANOTHER VERY IMPORTANT NOTE: YOU MUST FOLLOW THE DIRECTIONS CAREFULLY BELOW OR YOU MAY LOSE POINTS: for example, the 1st program described has a requirement to use nested if-else statements. You can probably make the program run with different approaches: but I want you to create it with nested if-else statements.
+
+ADDITIONALLY, YOU ARE NOT ALLOWED TO USE C++ CODE THAT HAS NOT BEEN COVERED IN CLASS. For example, we have not discussed functions or arrays as of yet in class, and you are not allowed to use those (and other not-covered topics) in this lab!
 
 <h3>DESCEND.CPP</h3>
 Write a program that takes 3 integer inputs from a user and prints them back in descending order. YOUR PROGRAM MUST HAVE NESTED IF-ELSE STATEMENTS!
@@ -138,7 +137,7 @@ Once you submit, you should see a page detailing your submission. The system wil
 
 You can alternatively submit your code from the command line (terminal) on any CS machine, including the Phelps lab machines or the CSIL server. You can use this method when logged in remotely. To submit the the three source files to this assignment by running the command:
 
-`$ ~submit/submit -p XXX descend.cpp block.cpp pi.cpp`
+`$ ~submit/submit -p 846 block.cpp descend.cpp pi.cpp`
 
 You can copy the URL shown in the output of the above and paste into a web browser to reach the submission result page.
 
