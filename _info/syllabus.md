@@ -27,7 +27,7 @@ Mondays starting at 8am, 9am, 10am, 11am, 12pm, 1pm PHELP 3525, ATTENDANCE REQUI
 | Yan Tang          | <yantang@cs.ucsb.edu>      | 10 am           | Fri. 2 - 4 PM          |
 | Muqsit Nawaz      | <mmnawaz@umail.ucsb.edu>   | 11 am           | Tue. 4 - 6 PM          |
 | Shiyu Ji          | <shiyu@cs.ucsb.edu>        | 12 pm           | Thu. 4 - 6 PM          |
-| Fatih Bakir       | <bakir@umail.ucsb.edu>     | 1 pm            | Tue. 4 - 6 PM          |
+| Fatih Bakir       | <bakir@umail.ucsb.edu>     | 1 pm            | Wed. 4 - 6 PM          |
 |                   |                            |                 |                        |
 | <b>Grader</b>     | <b>Email</b>               |                 |                        |
 | Shane Masuda      | <masuda@umail.ucsb.edu>    | -               | Thu. 11 AM - 1 PM      |
