@@ -67,15 +67,15 @@ The program takes 3 arguments at the command line: an integer, a character, and 
 
 The program should be able to verify that:
 
-1) the user has exactly 3 arguments.<br \>
-2) the operator used is one of the 3 allowed operators and nothing else.<br \>
-3) when using modulo, the second integer is not zero (otherwise, you would divide by zero).<br \>
+1) the user has exactly 3 arguments.   
+2) the operator used is one of the 3 allowed operators and nothing else.   
+3) when using modulo, the second integer is not zero (otherwise, you would divide by zero).   
 
 For each of these conditions, the program should print out a specific error message (called USAGE messages) and exit. For each condition, the error message should be:
 
-1) Number of arguments is incorrect.<br \>
-2) Bad operation choice.<br \>
-3) Cannot divide by zero.<br \>
+1) Number of arguments is incorrect.   
+2) Bad operation choice.   
+3) Cannot divide by zero.   
 
 <b>Hint:</b> you have to use <code>cerr</code> instead of <code>cout</code> to output the usage messages. Do not use <code>cerr</code> for any other outputs the program makes. While <code>cerr</code> and <code>cout</code> are alike in that they direct values to standard output, we usually use <code>cout</code> for the standard output, but use <code>cerr</code> to show or report errors to the user and the system. 
 
