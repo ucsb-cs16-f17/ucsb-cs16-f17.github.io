@@ -77,9 +77,9 @@ For each of these conditions, the program should print out a specific error mess
 2) Bad operation choice.   
 3) Cannot divide by zero.   
 
-<b>Hint:</b> you have to use <code>cerr</code> instead of <code>cout</code> to output the usage messages. Do not use <code>cerr</code> for any other outputs the program makes. While <code>cerr</code> and <code>cout</code> are alike in that they direct values to standard output, we usually use <code>cout</code> for the standard output, but use <code>cerr</code> to show or report errors to the user and the system. 
+<b>Hint:</b> you have to use <b>cerr</b> instead of <b>cout</b> to output the usage messages. Do not use <b>cerr</b> for any other outputs the program makes. While <b>cerr</b> and <b>cout</b> are alike in that they direct values to standard output, we usually use <b>cout</b> for the standard output, but use <b>cerr</b> to show or report errors to the user and the system. 
 
-You may use the <code>exit(1)</code> statement when exiting from giving some of the error messages. The instructor will demonstrate the proper use of <code>exit(1)</code> and <code>cerr</code> in class on Tuesday.
+You may use the <b>exit(1)</b> statement when exiting from giving some of the error messages. The instructor will demonstrate the proper use of <b>exit(1)</b> and <b>cerr</b> in class on Tuesday.
 
 This program does not loop back to take inputs again. See the sample runs examples below.
 
