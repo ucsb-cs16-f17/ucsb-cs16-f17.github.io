@@ -93,7 +93,7 @@ $ 3
 $ ./calculate 6 + -19
 $ -13
 
-$ ./calculate 7 * -5
+$ ./calculate 7 x -5
 $ -35
 
 $ ./calculate 8 % 3
