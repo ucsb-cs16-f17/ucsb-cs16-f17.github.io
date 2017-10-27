@@ -251,7 +251,7 @@ Remember to re-compile the relevant files after you make any changes to the C++ 
 
 <h2>Step 3: Submit</h2>
 
-*BEFORE YOU SUBMIT YOUR FILES:* Make sure that you have COMMENTS in your program that would help explain what your program is doing to another person reading your program code. Also make sure that you STYLIZE your program appropriately with correct indendation and so on to additionally make it easier on others reading your code. These 2 aspect (having appropriate comments and style) will be graded for an extra 30 points beyond the automatic grade you get from submit.cs.
+*BEFORE YOU SUBMIT YOUR FILES:* Make sure that you have COMMENTS in your program that would help explain what your program is doing to another person reading your program code. Also make sure that you STYLIZE your program appropriately with correct indendation and so on to additionally make it easier on others reading your code. These 2 aspect (having appropriate comments and style) will be graded for an extra 20 points beyond the automatic grade you get from submit.cs.
 
 Once you are satisfied that your programs are correct, it is time to submit them. Login at [https://submit.cs.ucsb.edu](https://submit.cs.ucsb.edu), then navigate to “CS16_f17” and click on “lab05”. Then click “Make Submission”, and make your submission the same way as last week. Remember to submit all 3 .cpp files. WHEN YOU SUBMIT, DO THIS AS A PAIR - THE SUBMIT SYSTEM WILL ALLOW YOU TO DO THIS - IF YOU HAVE ANY TROUBLE WITH THIS, LET A T.A. OR THE INSTRUCTOR KNOW.
 
@@ -273,7 +273,7 @@ You may submit this lab multiple times. You should submit only after local compi
 
 <h2>Step 5: Done!</h2>
 
-Once your submission receives a score of 100/100, you are done with this assignment. REMEMBER that there are 30 additional points that will be scored according to your proper use of comments and other stylings, as well as following directions. The total will then be normalized to 100 points again (i.e. 130 score will be 100%, 110 score is 84.6%, etc...) to grade this lab.
+Once your submission receives a score of 100/100, you are done with this assignment. REMEMBER that there are 20 additional points that will be scored according to your proper use of comments and other stylings, as well as following directions. The total will then be normalized to 100 points again (i.e. 120 score will be 100%, 110 score is 84.6%, etc...) to grade this lab.
 
 If you are in the Phelps lab or in CSIL, make sure to log out of the machine before you leave. Also, make sure to close all open programs before you log out. Some programs will not work next time if they are not closed. Remember to save all your open files before you close your text editor.
 
