@@ -85,7 +85,7 @@ non-alphabetical characters (usually this means puncuation, since many poems hav
 
 Finally, the program has to state how many rhyming pairs it found, or if it did not find any at all.
 
-The program has to ask the user for the file name and has to check to see if the file exists (use the string "Enter file name:\n" for the question). If it does not exist, the program must output (via cerr) an error message: "Input file opening failed." and then exit with code 1.
+The program has to ask the user for the file name and has to check to see if the file exists (use the string "Enter file name:" for the question). If it does not exist, the program must output (via cerr) an error message: "Input file opening failed." and then exit with code 1.
 
 Your program should define <b>at least one function</b>. If your program does NOT have at least one function, you will not get credit for this part of the assignment, even if your program passes submit.cs grading. And remember that you can ONLY use programming techniques and instructions that we have covered in class so far.
 
