@@ -49,7 +49,7 @@ This program takes its inputs from a file that contains numbers. The program rea
 
 Where the number a is the average of the numbers x1, x2, x3, and so forth and the number n is the count of how many numbers there are.  The answers should be given with 3 decimal points precision.  
 
-The program has to ask the user for the file name and has to check to see if the file exists. If it does not exist, the program must output (via cerr) an error message: "Input file opening failed." and then exit with code 1.
+The program has to ask the user for the file name and has to check to see if the file exists (use the string "Enter file name:\n" for the question). If it does not exist, the program must output (via cerr) an error message: "Input file opening failed." and then exit with code 1.
 
 Your program should define <b>at least one function</b>. If your program does NOT have at least one function, you will not get credit for this part of the assignment, even if your program passes submit.cs grading. And remember that you can ONLY use programming techniques and instructions that we have covered in class so far.
 
@@ -85,7 +85,7 @@ non-alphabetical characters (usually this means puncuation, since many poems hav
 
 Finally, the program has to state how many rhyming pairs it found, or if it did not find any at all.
 
-The program has to ask the user for the file name and has to check to see if the file exists. If it does not exist, the program must output (via cerr) an error message: "Input file opening failed." and then exit with code 1.
+The program has to ask the user for the file name and has to check to see if the file exists (use the string "Enter file name: " for the question). If it does not exist, the program must output (via cerr) an error message: "Input file opening failed." and then exit with code 1.
 
 Your program should define <b>at least one function</b>. If your program does NOT have at least one function, you will not get credit for this part of the assignment, even if your program passes submit.cs grading. And remember that you can ONLY use programming techniques and instructions that we have covered in class so far.
 
@@ -115,11 +115,11 @@ Enter file name: MyPoem.txt
 today and McKay
 McKay and play
 mumps and bumps
-I found 3 pairs of rhyming words.
+There are 3 pairs of rhyming words.
 ```
 </div>
 
-Note that "dry" and "eye" were not shown, nor were "rocks" and "pox". This is because they do not meet the program's criteria of a "rhyme"'.
+Note that "dry" and "eye" were not shown, nor were "rocks" and "pox". This is because they do not meet the program's criteria of a "rhyme"'. Also note the last line says how many pairs of rhyming words there are. **Please make the word "pair" singular if only 1 pair of rhyming words is found and use the plural "pairs" if you found more than 1 rhyming pairs.**
 
 Consider another example file called "No.txt":
 
@@ -138,7 +138,7 @@ The program would run as follows:
 <div markdown="1">
 ```
 Enter file name: No.txt
-I did not find any pairs of rhyming words.
+No rhymes found.
 ```
 </div>
 
@@ -196,7 +196,7 @@ Once you submit, you should see a page detailing your submission. The system wil
 
 You can alternatively submit your code from the command line (terminal) on any CS machine, including the Phelps lab machines or the CSIL server. You can use this method when logged in remotely. To submit the the three source files to this assignment by running the command:
 
-`$ ~submit/submit -p 866 stddev.cpp operators.cpp` 
+`$ ~submit/submit -p 866 stddev.cpp rhymes.cpp` 
 
 You can copy the URL shown in the output of the above and paste into a web browser to reach the submission result page.
 
