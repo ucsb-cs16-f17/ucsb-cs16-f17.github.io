@@ -4,12 +4,12 @@ num: lab07
 ready: true
 desc: "Arrays"
 assigned: 2017-11-13 08:00:00.00-8
-due: 2016-11-20 08:00:00.00-8
+due: 2016-11-21 08:00:00.00-8
 ---
 <div markdown="1">
 <h1>CS16: Programming Assignment 07</h1>
 <h2>Introduction -- Important: Read this!</h2>
-<h2>This assignment is due on Monday, November 20th at 8:00 AM.</h2>
+<h2>This assignment is due on Monday, November 21st at 8:00 AM.</h2>
 The assignment for this week will utilize concepts of arrays. Once again, the TAs and I will be looking for (and grading) programming stylizations and other requirements.So, it is not enough for your lab to pass submit.cs! Please read the instructions herein <b>carefully</b>. 
 
 <h3>Pair programming is <b>OPTIONAL</b> for this lab. If you choose a lab partner, they MUST be registered in the SAME lab as you.</h3>
