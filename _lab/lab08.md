@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab08
-ready: true
+ready: false
 desc: "Arrays, Vectors and Strings"
 assigned: 2017-11-20 08:00:00.00-8
 due: 2017-11-27 12:00:00.00-8
