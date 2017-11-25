@@ -66,7 +66,7 @@ In Lecture, we have introduced the idea of separate compilations, where your C++
 
 The following web page explains more about separate compilation, dividing your program up among multiple C++ and .h files, and using a Makefile.
 
-I strongly encourage you to read over it briefly before you go on to review the information there, as well as your notes from the separate compilation lecture, if you took any.
+I strongly encourage you to read over it briefly before you go on to review the information there, as well as your notes from the separate compilation lecture, if you took any. I also *very* strongly encourage you to open the Makefile provided and look it over while reading the information at:
 
 [Separate Compilation and Makefiles](https://foo.cs.ucsb.edu/16wiki/index.php/C%2B%2B:_Separate_Compilation_and_Makefiles)
 
