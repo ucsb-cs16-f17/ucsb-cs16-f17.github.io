@@ -2,7 +2,7 @@
 layout: lab
 num: lab09
 ready: true
-desc: "Multiple Compilations and xxxx"
+desc: "Multiple Compilations"
 assigned: 2017-11-27 08:00:00.00-7
 due: 2017-12-06 12:00:00.00-7
 ---
